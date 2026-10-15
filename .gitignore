@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+*.zip
+
+# Local credentials must never be committed.
+.env
+.env.*
+!.env.example
